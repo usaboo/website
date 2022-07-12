@@ -16,8 +16,38 @@
 .desktop-up-only {
   display: none;
 
+<<<<<<< HEAD
   @media #{$bp-desktop-up} {
     display: revert;
+=======
+    @media #{$bp-mobile-up} {
+      margin-right: 24px;
+
+      &:last-child {
+        margin-right: 0;
+      }
+    }
+  }
+
+  .unstyled-list {
+    @media #{$bp-mobile-up} {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  .logo {
+    img {
+      display: block;
+      height: 50px;
+      margin: 10px 80px;
+
+      @media #{$bp-mobile-up} {
+        height: 110px; //70px original
+        margin: 10px;
+      }
+    }
+>>>>>>> gh-pages
   }
 }
 
