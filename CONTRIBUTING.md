@@ -329,7 +329,7 @@ The reasons for this progression are:
   * We are trying to teach you the team methodology through the issues themselves.
   * It ensures you understand what we expect and the quality of contributions.
   
-All website team members are required to attend at least 1 team meeting in a week (held on Tuesdays, Thursdays and Sundays). In case, you are unable in any given week, you should reach out to the tech leadership team. Exceptions to this requirement may be provided on a case-by-case basis.
+All website team members are required to attend at least 1 team meeting in a week (held on Tuesdays, Thursdays and Sundays). In case you are unable in any given week, you should reach out to the tech leadership team. Exceptions to this requirement may be provided on a case-by-case basis.
 
 All website team members are expected to devote a minimum of 6 hours per week while working on various assignments during their entire tenure at the website team (excluding week offs and vacations).
 
